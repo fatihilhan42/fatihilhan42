@@ -1,4 +1,4 @@
-![](https://media-exp1.licdn.com/dms/image/C4D16AQEcUgS7fU5YlA/profile-displaybackgroundimage-shrink_200_800/0/1643461210437?e=1648684800&v=beta&t=4sbwEtTXJHP09HMwa3o0bMp5jlun9LyPlh9U62cM5ec)
+![](https://drive.google.com/file/d/1ZZHEyB54r_TJMgKf3ZdTKn75Kp7HJ0EW/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Fatih ILHAN</h1>
 <h3 align="center">Electrical and Electronics Engineer Candidate</h3>
 
