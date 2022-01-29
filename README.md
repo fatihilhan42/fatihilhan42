@@ -1,4 +1,5 @@
-![Adsız tasarım](https://user-images.githubusercontent.com/63750425/151664909-e48e419a-b495-4cc4-95f2-25c259fec221.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63750425/151664909-e48e419a-b495-4cc4-95f2-25c259fec221.png?raw=true" alt="Sublime's custom image"/>
 <h1 align="center">Hi 👋, I'm Fatih ILHAN</h1>
 <h3 align="center">Electrical and Electronics Engineer Candidate</h3>
 
