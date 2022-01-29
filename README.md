@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63750425/151664909-e48e419a-b495-4cc4-95f2-25c259fec221.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/63750425/151665101-6d95c021-6217-420e-a127-502927a484eb.png?raw=true" alt="Sublime's custom image"/>
 <h1 align="center">Hi 👋, I'm Fatih ILHAN</h1>
 <h3 align="center">Electrical and Electronics Engineer Candidate</h3>
 
