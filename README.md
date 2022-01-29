@@ -1,6 +1,6 @@
-![](https://drive.google.com/file/d/1ZZHEyB54r_TJMgKf3ZdTKn75Kp7HJ0EW/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Fatih ILHAN</h1>
 <h3 align="center">Electrical and Electronics Engineer Candidate</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihilhan42&label=Profile%20views&color=0e75b6&style=flat" alt="fatihilhan42" /> </p>
