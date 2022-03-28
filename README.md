@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Python,courses, projects**
 
-- 📝 I regularly write articles on [https://fortytwo-42.com/](https://fortytwo-42.com/)
+- 📝 I regularly write articles on [Fortytwo](https://fortytwofficial.com/)
 
 - 📫 How to reach me **fatih.821@outlook.com**
 
