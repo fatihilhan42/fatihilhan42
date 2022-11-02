@@ -21,10 +21,11 @@
 <a href="https://www.kaggle.com/fatihilhan" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/Kaggle-00CCFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;" />
    </a>
+</div>
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api?username=fatihilhan42&show_icons=true&theme=radical" alt="fatihilhan42" /></a> </p>
-  
-<p align="center"> <a href="https://twitter.com/hari_seldon24" target="blank"><img src="https://img.shields.io/twitter/follow/hari_seldon24?logo=twitter&style=for-the-badge" alt="hari_seldon24" /></a> </p>
+&nbsp;
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api?username=fatihilhan42&show_icons=true&theme=radical" alt="fatihilhan42" /></a> </p>
+
 
 - 🔭 I’m currently working on [Forty Two Blog Websites](https://fortytwofficial.com/)
 
