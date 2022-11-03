@@ -2,6 +2,9 @@
   <img src="https://user-images.githubusercontent.com/63750425/151665101-6d95c021-6217-420e-a127-502927a484eb.png?raw=true" alt="Sublime's custom image"/>
 <h1 align="center">Hi 👋, I'm Fatih ILHAN</h1>
 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical-Electronics%20Engineer;Data%20Science%20and%20A.I.%20Enthusiast;&font=Arial%20Code&center=true&width=450&height=45&color=F52B20&vCenter=true&size=22&pause=1500"></a>
+</p>
+
 <div align="center">
 <a href="https://github.com/fatihilhan42" target="_blank">
    <img height="26px" src="https://komarev.com/ghpvc/?username=fatihilhan42&label=Profile%20views&color=7289d9&style=flat" alt="profile views" style="margin-bottom: 5px;" />
