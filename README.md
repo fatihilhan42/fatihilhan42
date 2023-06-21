@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63750425/216293785-39be9c6b-0aa7-4cfb-b4c6-c6232ccb8afe.gif" alt="Sublime's custom image"/>
-<h1 align="center">Hi 👋, I'm Fatih ILHAN</h1>
+<h1 align="center">Hi 👋, I'm Fatih İLHAN</h1>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical-Electronics%20Engineer;Data%20Science%20and%20A.I.%20Enthusiast;&font=Arial%20Code&center=true&width=450&height=45&color=F52B20&vCenter=true&size=22&pause=1500"></a>
 </p>
